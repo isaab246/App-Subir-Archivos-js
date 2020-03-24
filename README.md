@@ -1,14 +1,3 @@
-# Webpack Starter
+# Subir Archivos js
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
-
-### Notas:
-Recuerden reconstruir los módulos de Node
-```
-npm install
-```
-
-Y para construir el build, recueren:
-```
-npm run build
-```
+Proyecto creado con js para subir archivos con ayuda de cloudinary
