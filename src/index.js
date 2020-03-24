@@ -1,5 +1,3 @@
-import "@babel/polyfill";
-
 // import { init } from './js/chistes-page';
 // import { init } from './js/usuarios-page';
 import { init } from './js/archivos-page';
