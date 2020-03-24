@@ -1,3 +1,7 @@
+import 'core-js/stable';
+import 'regenerator-runtime/runtime';
+
+
 // import { init } from './js/chistes-page';
 // import { init } from './js/usuarios-page';
 import { init } from './js/archivos-page';
