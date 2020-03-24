@@ -9,6 +9,7 @@ module.exports = {
     optimization: {
         minimizer: [ new OptimizeCssAssetsPlugin() ]
     },
+    entry: ["@babel/polyfill", "./app/js"],
     output: {
         filename: 'main.[contentHash].js'
     },
