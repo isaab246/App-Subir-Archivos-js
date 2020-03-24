@@ -1,6 +1,4 @@
-import 'core-js/stable';
-import 'regenerator-runtime/runtime';
-
+import "@babel/polyfill";
 
 // import { init } from './js/chistes-page';
 // import { init } from './js/usuarios-page';
